@@ -1,0 +1,11 @@
+model,fold,accuracy,balanced_accuracy,auc,f1
+2D Swin-T (slices),0,0.629,0.605,0.509,0.435
+2D Swin-T (slices),1,0.714,0.626,0.620,0.444
+2D Swin-T (slices),2,0.706,0.635,0.577,0.444
+2D Swin-T (slices),3,0.758,0.670,0.785,0.500
+2D Swin-T (slices),4,0.788,0.750,0.708,0.632
+3D SwinUNETR (volume),0,0.571429,0.638889,0.589744,0.482759
+3D SwinUNETR (volume),1,0.657143,0.623932,0.602564,0.454545
+3D SwinUNETR (volume),2,0.558824,0.711538,0.740385,0.516129
+3D SwinUNETR (volume),3,0.727273,0.820000,0.830000,0.640000
+3D SwinUNETR (volume),4,0.636364,0.611111,0.574074,0.454545
